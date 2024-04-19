@@ -41,7 +41,9 @@
    <a>
     <img src="https://img.shields.io/badge/JAVASCRIPT-J?style=for-the-badge&logo=javascript&color=%23DEB887" alt="js" />
   </a>
+  ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 </p>
+</br>
 
 ## Proyectos (en progeso...)
 
