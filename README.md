@@ -44,17 +44,12 @@
 ## Stats Github <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 
-<details> 
-  <summary><b>💻 Stats de mi perfil</b></summary>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex7pl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alex7pl" height="192px"/>
   <br/>
-  <p align="center">
-   <a>https://github-readme-stats.vercel.app/api?username=alex7pl&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)</a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex7pl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alex7pl" height="192px"/>
-  <br/>
-  </p>
-</details>
+</p>
+
 
 <br/>
 
