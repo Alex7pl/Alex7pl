@@ -5,7 +5,7 @@
 ## Hi, I'm Alex <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=F70000&random=false&width=435&lines=%C2%A1Bienvenidos+a+mi+perfil+de+GitHub!" alt="Typing SVG" /></a>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <p >Apasionado desarrollador web con experiencia en la creación de aplicaciones interactivas y sitios web dinámicos. Especializado en el diseño y desarrollo frontend utilizando tecnologías como HTML, CSS y JavaScript, así como en la integración de APIs
