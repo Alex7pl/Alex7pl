@@ -55,7 +55,7 @@
   <summary><b>💻 Stats de mi perfil</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/alex7pl/github-readme-stats"><img alt="Alex Github Stats" src="https://github-readme-stats.vercel.app/api?username=alex7pl&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alex7pl&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex7pl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alex7pl" height="192px"/>
